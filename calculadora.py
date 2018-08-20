@@ -1,9 +1,16 @@
-num1 = 5
-num2 = 2
-print("A somando num1 com num2 é: ")
-print(num1+num2
+num1 = 10
+num2 = 20
+print(num1+num2)
+print("A soma de numero1 com numero2 é: ")
+print(num1+num2)
         
 num3 = 5
 num4 = 7
 print("Subtracao de num4 - num3:" )
 print(num4-num3)
+
+mult1 = 10
+mult2 = 5
+print("Multiplicando dois numeros")
+print(mult1 * mult2)
+
